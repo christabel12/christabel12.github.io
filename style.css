@@ -1,1 +1,5 @@
-
+body {
+  background_color: #696969;
+  background: centre url(fruit bowl.png);
+  background size: cover;
+}
