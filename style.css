@@ -1,5 +1,13 @@
+body {
+ bacground-color: rgb(105,105,105);  
+}
+
 h1 {
-   font-family: 'Erica One', cursive; 
+   text-align: centre;
+   color: white; 
+   font-size: 15px;
+   font-family: 'Erica One', cursive;
+   text-shadow: 4px, 4px, 5px, black;  
 } 
 
 h2 {
