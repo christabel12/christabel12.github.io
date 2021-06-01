@@ -1,5 +1,16 @@
 h1 {
-   font-family: 'Bevan', cursive;
-   
+   font-family: 'Erica One', cursive; 
 } 
+
+h2 {
+   font-family: 'Kalam', cursive;
+}
+
+h3 {
+   font-family: 'Kalam', cursive;
+}
+
+p {
+   font-family: 'Roboto', sans-serif;
+}
 
