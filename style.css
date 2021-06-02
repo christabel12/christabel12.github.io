@@ -1,18 +1,17 @@
 body {
- background-color: rgb(105,105,105);
+ background: content-box radial-gradient(rgb(100,149,237), rgb(255,228,181));
 }
 
 .box {
  border: 8px solid rgb(0,0,0);
  background-color: rgb(245,245,245);
- text-align: centre;
-	
+ text-align: centre;	
 h1 {
  font-size: 55px;
  color: white;
  font-family: 'Saira', sans-serif;
  text-shadow: 1px 1px 1px rgb(120,120,120),
-	  	             3px 3px 8px black;
+	      3px 3px 8px black;
 }	
 }
 
