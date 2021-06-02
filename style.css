@@ -7,4 +7,10 @@ body {
  background-color: rgb(245,245,245);
 }
 
-
+h1 {
+ font-size: 55px;
+ color: white;
+ font-family: 'Montserrat', sans-serif;
+ text-align: centre;
+ 
+}
