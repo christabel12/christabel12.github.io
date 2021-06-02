@@ -5,7 +5,8 @@ body {
 }
 
 div {
- color: rgb(112,128,144);
+ border-width: 1px
+ background color: rgb(112,128,144);
 }
 
 h1 {
