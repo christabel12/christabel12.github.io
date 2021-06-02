@@ -3,11 +3,11 @@ body {
 }
 
 .box {
- border: 8px solid rgb(0,0,0);
- background-color: rgb(245,245,245);
- text-align: centre;	
+ border: 8px solid (rgb(100,149,237);
+ background-color: (rgb(100,149,237);	
 h1 {
- font-size: 55px;
+ text-align: centre;
+ font-size: 100px;
  color: white;
  font-family: 'Saira', sans-serif;
  text-shadow: 1px 1px 1px rgb(120,120,120),
