@@ -4,9 +4,10 @@ body {
  background-size: cover;
 }
 
-div {
- border-width: 1px
- background color: rgb(112,128,144);
+.box {
+ border: 5px solid rgb(112,128,144);
+ background-color: rgb(112,128,144);
+ 
 }
 
 h1 {
