@@ -3,8 +3,8 @@ body {
 }
 
 .box {
- border: 8px solid rgb(72,61,139);
- background-color: rgb(72,61,139);
+ border: 8px solid rgb(0,0,0);
+ background-color: rgb(255,215,0);
 }
 
 
