@@ -3,3 +3,7 @@ body {
  background: centre url(Fruit Bowl.png);
  background-size: cover;
 }
+
+h1 {
+ color: rgb(105,105,105);
+}
