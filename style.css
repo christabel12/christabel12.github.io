@@ -1,5 +1,5 @@
 body {
- background-color: rgb(9,9,9);
+ background: content-box radial-gradient(rgb(112,128,144), rgb(9,9,9));
 }
 
 .box {
