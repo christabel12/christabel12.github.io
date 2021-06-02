@@ -7,7 +7,7 @@ body {
 .box {
  border: 5px solid rgb(112,128,144);
  background-color: rgb(112,128,144);
- 
+ border-size: cover;
 }
 
 
