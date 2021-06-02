@@ -4,6 +4,10 @@ body {
  background-size: cover;
 }
 
-h1 {
+div {
  color: rgb(112,128,144);
+}
+
+h1 {
+ color: rgb(222,184,135);
 }
