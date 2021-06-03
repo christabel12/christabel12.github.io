@@ -3,9 +3,8 @@ background-color: rgb(105,105,105);
 }
 
 .box {
-border: 6px, content-box radial-gradient(rgb(255,228,181),rgb(123,104,238));
+border: 6px;
 background-color: content-box radial-gradient(rgb(255,228,181),rgb(123,104,238));
-background-size: cover;
 }  
 
 h1 {
