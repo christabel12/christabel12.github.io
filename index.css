@@ -26,15 +26,15 @@ font-family: 'Red Hat Display', sans-serif;
 font-weight: 500;
 font-style: italic;
 color: rgb(255,228,181);
-font-size: 43px;
+font-size: 33px;
 text-align: center;
 }
 
 h4 {
 font-family:  'Petrona' serif;
 font-weight: 700;
-color: rgb(123,104,238);
-font-size: 43px;
+color:rgb(123,104,245);
+font-size: 36px;
 text-align: left;
 }
 
@@ -42,26 +42,24 @@ p {
 font-family: 'Red Hat Display', sans-serif;
 font-weight: 300;
 color:white;
-font-size: 36;
+font-size: 24px;
 text-align: left;
 }
 
 ul {
 font-family: 'Red Hat Display', sans-serif;
 font-weight: 300;  
-font-size: 36;
+font-size: 24;
 text-align: left;   
 }
 
 div.image {
-text-align: left;
+text-align: center;
 }
 
 div.video {
-text-align: right;
+text-align: center;
 }
-
-
 
 
 
