@@ -1,8 +1,11 @@
 body {
  background-color:rgb(240,248,255);
 }
-
-
+.box {
+ h1 {
+  font-family: 'Petrona', serif;
+ }
+}
 
 
 
